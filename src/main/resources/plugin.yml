@@ -1,0 +1,9 @@
+name: Motd
+version: '${project.version}'
+main: Motd.Main
+api-version: 1.18
+commands:
+  MotdReload:
+    description: "config.yml 를 리로드합니다"
+    usage: "/motdreload"
+    aliases: [ mr ]
