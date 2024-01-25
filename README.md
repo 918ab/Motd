@@ -24,3 +24,7 @@ VersionName : '이 서버는 1.18.2만 가능합니다'
 
 #서버의 최대 인원수를 표시합니다
 MaxPlayers : 20
+
+#서버의 인원수를 표시합니다
+NumPlayers-use : true
+NumPlayers : 100
