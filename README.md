@@ -28,3 +28,12 @@ MaxPlayers : 20
 #서버의 인원수를 표시합니다
 NumPlayers-use : true
 NumPlayers : 100
+
+#탭의 위와 아래를 설정합니다
+Tab:
+  header:
+    - "&bMotd Plugin"
+    - " "
+  footer:
+    - " "
+    - "My &aServer"
